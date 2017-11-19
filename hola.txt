@@ -1,2 +1,6 @@
 jAVA Hello
 ===============
+<<<<<<< HEAD
+=======
+JAVA Bye Bye Bye
+>>>>>>> addBye
